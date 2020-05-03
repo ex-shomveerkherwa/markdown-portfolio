@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* List Of Technologies
+  * Java
+  * Angular
+* Developers
+  * Som
+  * Dev
